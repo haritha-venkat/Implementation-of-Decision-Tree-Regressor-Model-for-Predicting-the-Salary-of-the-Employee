@@ -1,4 +1,8 @@
-2. Anaconda – Python 3.7 Installation / Jupyter notebook
+#EX.7: Implementation of Decision Tree Regressor Model for Predicting the Salary of the Employee
+
+
+## REQUIREMENTS:
+Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## AIM:
 To write a program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
